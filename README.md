@@ -9,6 +9,7 @@ Reading and editing 24-bit BMP-file
  4) В каждой строчке картинки сортирует пиксели по возрастанию яркости
  5) Поворачивает файл 0 - нет поворота, 1 - поворот на 90 градусов влево, 2 - поворот на 180 градусов, 3 - поворот на 90 градусов вправо
  6) Сохраняет новую полученную таким образом картинку в fileout.bmp
+ 7) Выделить функции в отдельный файл и создать makefile.
  
  In English
  
@@ -20,3 +21,4 @@ Reading and editing 24-bit BMP-file
  4) In each row sorts the pixels in ascending order of brightness.
  5) Rotates the file: 0 - no rotation, 1 - rotate 90 degrees to the left, rotate 180 degrees, 3 - rotate 90 degrees to the right.
  6) Saves the new image obtained in this way to the output file.
+ 7) Extract functions into a separate file and create a makefile.
