@@ -13,7 +13,7 @@ Reading and editing 24-bit BMP-file
  
  In English
  
- Discription of the console application
+ Description of the console application
  
  1) The programm takes three arguments as input: the name of input file, the name of output file and rotation value (a number from 0 to 3).
  2) Reads input file.
